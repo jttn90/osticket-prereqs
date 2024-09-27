@@ -13,7 +13,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 Pro </b> (22H2), at least 4vCPUs, 8GB RAM
+- Windows 10 Pro </b> (22H2), at least 2vCPUs, 8GB RAM
 
 <h2>List of Prerequisites</h2>
 
