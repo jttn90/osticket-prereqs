@@ -124,7 +124,6 @@ Now back to osTicket on the browser, click Continue and fill in the details that
   <img src="https://i.imgur.com/Lfw0PXJ.png" height="80%" width="80%" alt="heidisql"/>
   <img src="https://i.imgur.com/pWKEjjz.png" height="80%" width="80%" alt="create new database in heidisql"/>
 </p>
-
 Continue with the installation of osTicket in the browser by clicking Install Now. You should now seeing the page telling you that osTicket is finally installed and all the links to login into the osTicket as a general user (http://localhost/osTicket) or as staff (http://localhost/osTicket/scp).
 <br/>
 <p>
